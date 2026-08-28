@@ -1,0 +1,43 @@
+{
+  "name": "Ketamine Repo",
+  "subtitle": "",
+  "description": "",
+  "iconURL": "https://i.imgur.com/DCEzeS5.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#009cff",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Ketamine",
+      "bundleIdentifier": "uk.nouvborne.ketamine",
+      "marketplaceID": "",
+      "developerName": "Nouvborne",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/wEM5VfT.png",
+      "tintColor": "#d4944c",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Nouvborne/Ketamine/releases/download/1.2.1/Ketamine-1.2.1.ipa",
+          "size": 21100000,
+          "version": "1.2.1",
+          "buildVersion": null,
+          "date": "2026-08-28T19:45:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
