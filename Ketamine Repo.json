@@ -4,7 +4,7 @@
   "description": "",
   "iconURL": "https://i.imgur.com/DCEzeS5.png",
   "website": "https://github.com/Nouvborne/Ketamine",
-  "patreonURL": "",
+  "patreonURL": "https://patreon.com/c",
   "tintColor": "#009cff",
   "featuredApps": [],
   "apps": [
@@ -13,8 +13,8 @@
       "bundleIdentifier": "uk.nouvborne.ketamine",
       "marketplaceID": "",
       "developerName": "Nouvborne",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "MobileGestalt Editor",
+      "localizedDescription": "Unofficial Source",
       "iconURL": "https://i.imgur.com/wEM5VfT.png",
       "tintColor": "#d4944c",
       "category": "utilities",
@@ -36,7 +36,7 @@
           "NSAccentColorName": "AccentColor"
         }
       },
-      "patreon": {}
+      "patreon": {c}
     }
   ],
   "news": []
