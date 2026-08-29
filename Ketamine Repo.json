@@ -4,7 +4,7 @@
   "description": "",
   "iconURL": "https://i.imgur.com/DCEzeS5.png",
   "website": "https://github.com/Nouvborne/Ketamine",
-  "patreonURL": "https://patreon.com/c",
+  "patreonURL": "",
   "tintColor": "#009cff",
   "featuredApps": [],
   "apps": [
@@ -36,7 +36,7 @@
           "NSAccentColorName": "AccentColor"
         }
       },
-      "patreon": {c}
+      "patreon": {}
     }
   ],
   "news": []
